@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "216316758655",
+    "project_id": "talipafast-proto",
+    "storage_bucket": "talipafast-proto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216316758655:android:39fcbf9ef61fc83d6e8d4a",
+        "android_client_info": {
+          "package_name": "com.example.talipafast"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVy0cCrJ5YoEbBAeH6WL2dIssXIxcXBO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
